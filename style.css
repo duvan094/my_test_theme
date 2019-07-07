@@ -1,0 +1,11 @@
+/*
+Theme Name: Test_Theme
+Version: 0.1
+Description: Custom Wordpress theme for my portfolio website.
+Author: Jacob Duvander
+*/
+
+@import url("stylesheets/base.css");
+@import url("stylesheets/header.css");
+@import url("stylesheets/body.css");
+@import url("stylesheets/footer.css");

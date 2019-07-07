@@ -1,0 +1,44 @@
+header{
+    position:fixed;
+    top:0;
+    left:0;
+    background:#222;
+    width:100%;
+    color:#FFF;
+    box-shadow:0 3px 20px rgba(0,0,0,0.1);
+}
+
+
+.header-wrapper{
+    display:flex;
+    justify-content: space-between;
+    max-width:1280px;
+    margin:auto;
+    padding:1.5em 1em;
+}
+
+
+.menu {
+    display:flex;
+}
+
+.menu li{
+    padding-right:2em;
+}
+
+
+.menu li:last-child{
+    padding-right:0;
+}
+
+.menu a{
+    color:#FFF;
+    transition: 0.2s ease-out opacity;
+}
+
+.menu a:hover{
+    opacity:0.8;
+}
+
+
+

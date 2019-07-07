@@ -1,0 +1,10 @@
+
+
+main{
+    max-width: 960px;
+    width:100%;
+    margin:auto;
+    min-height:calc(100vh - 20em);
+    padding:2em;
+    margin-top:8em;
+}
